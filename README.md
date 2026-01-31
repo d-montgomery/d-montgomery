@@ -22,6 +22,8 @@ I am the author of an app-based guide book for Staunton State Park in Pine, Colo
 |**[Staunton State Park Rock Climbing](https://rakkup.com/guidebooks/staunton-state-park-rock-climbing/)**|
 |:---:|
 
+I've released some music -- mainly old recordings from my parents basement -- on [Spotify](https://open.spotify.com/artist/1kyUtgus6MsnIKCQOMvPTw?si=YyEvzAA8QKyGZlhoZkb6xg).
+
 ## How to reach me
 
 I'm always happy to hear about new oppportunities!
