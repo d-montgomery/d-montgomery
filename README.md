@@ -9,7 +9,7 @@ I work on reactive flow projects using [Pele](https://amrex-combustion.github.io
 |**[clotFoam](https://github.com/d-montgomery/clotFoam)**|**[Pele](https://amrex-combustion.github.io)**
 |:---:|:---:|
 
-I also develop tool for predicting thermophysical properties of aviation fuels:
+I also develop tools for predicting thermophysical properties of aviation fuels:
 
 |**[FuelLib](https://github.com/NatLabRockies/FuelLib)**|
 |:---:|
