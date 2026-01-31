@@ -8,13 +8,11 @@
 
 ### GitHub Activity
 
-I joined GitHub **1** years ago and actively contribute to open-source software and scientific computing projects.
+I actively contribute to open-source software and scientific computing projects.
 
 | Commits | Pull Requests | Issues | Stars | Personal Repos | Contributed Repos |
 |--------|---------------|--------|--------|----------------|------------------|
-| **773** | **96** | **0** | **12** | **8** | **9** |
-
-Currently on a **{{ COMMIT_STREAK }}** day commit streak.
+| **775** | **96** | **0** | **12** | **8** | **9** |
 
 ### Work projects
 
