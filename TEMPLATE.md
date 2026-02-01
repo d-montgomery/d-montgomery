@@ -1,7 +1,6 @@
 <h3 align="left"> Dave Montgomery </h3>
 
 <p align="left">
-  <a href="https://d-montgomery.github.io">Website</a> •
   <a href="https://scholar.google.com/citations?user=UOOz1EAAAAAJ&hl=en">Google Scholar</a> •
   <a href="https://www.linkedin.com/in/d-montgomery303/"> LinkedIn</a> •
   <a href="https://research-hub.nrel.gov/en/persons/david-montgomery/"> NLR Research Hub</a>
