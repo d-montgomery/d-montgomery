@@ -4,11 +4,11 @@
 [LinkedIn](https://www.linkedin.com/in/d-montgomery303) •
 [NLR Research Hub](https://research-hub.nrel.gov/en/persons/david-montgomery/)
 
-### Open Source Impact
+### Software Activity
 
 | Commits | Pull Requests | Stars | Personal Repos | Contributed Repos |
 |---------|---------------|--------|----------------|-------------------|
-| **784** | **96** | **12** | **8** | **9** |
+| **786** | **96** | **12** | **8** | **9** |
 
 
 ### About Me
@@ -39,6 +39,8 @@ Contributor to the AMReX-based Pele combustion suite for large-scale reacting fl
 Author of a digital climbing guide for Staunton State Park, Colorado:  
 https://rakkup.com/guidebooks/staunton-state-park-rock-climbing/
 
-Musician with releases on Spotify:  
-https://open.spotify.com/artist/1kyUtgus6MsnIKCQOMvPTw
+Musician with a few older recordings:  
+[Spotify](https://open.spotify.com/artist/1kyUtgus6MsnIKCQOMvPTw) • 
+[Apple Music](https://music.apple.com/us/artist/dave-montgomery/1682278061) • 
+[YouTube Music](https://music.youtube.com/channel/UCufH1Pf-TYaSGZ60D0f5drg)
 
