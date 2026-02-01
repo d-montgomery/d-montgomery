@@ -14,7 +14,7 @@
 |--------|---------------|--------|--------|----------------|------------------|
 | **{{ COMMITS }}** | **{{ PULL_REQUESTS }}** | **{{ ISSUES }}** | **{{ STARS }}** | **{{ REPOSITORIES }}** | **{{ REPOSITORIES_CONTRIBUTED_TO }}** |
 
-### Work projects
+### Work Projects
 
 I work on reactive flow projects using [Pele](https://amrex-combustion.github.io) and OpenFOAM. My work spans a wide range of applications from blood clotting, to carbon capture, and combustion. 
 
@@ -27,7 +27,7 @@ I also develop tools for predicting thermophysical properties of aviation fuels:
 |:---:|
 
 
-### Fun stuff
+### Fun Stuff
 
 I am the author of an app-based guide book for Staunton State Park in Pine, Colorado:
 
