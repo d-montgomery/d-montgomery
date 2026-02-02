@@ -1,6 +1,6 @@
 ## Dave Montgomery
 
-[Webpage](https://d-montgomery.github.io/)
+[Webpage](https://d-montgomery.github.io/) •
 [Google Scholar](https://scholar.google.com/citations?user=UOOz1EAAAAAJ&hl=en) •
 [LinkedIn](https://www.linkedin.com/in/d-montgomery303) •
 [NLR Research Hub](https://research-hub.nrel.gov/en/persons/david-montgomery/)
@@ -9,7 +9,7 @@
 
 | Commits | Pull Requests | Stars | Personal Repos | Contributed Repos |
 |---------|---------------|--------|----------------|-------------------|
-| **817** | **96** | **12** | **8** | **9** |
+| **819** | **96** | **12** | **8** | **9** |
 
 
 ### About Me
