@@ -7,9 +7,9 @@
 
 ### Software Activity
 
-| Commits | Pull Requests | Stars | Personal Repos | Contributed Repos |
-|---------|---------------|--------|----------------|-------------------|
-| **{{ COMMITS }}** | **{{ PULL_REQUESTS }}** | **{{ STARS }}** | **{{ REPOSITORIES }}** | **{{ REPOSITORIES_CONTRIBUTED_TO }}** |
+| Commits | Pull Requests | Reviews | Stars | Personal Repos | Contributed Repos |
+|---------|---------------|---------|--------|----------------|-------------------|
+| **{{ COMMITS }}** | **{{ PULL_REQUESTS }}** | **{{ CODE_REVIEWS }}** | **{{ STARS }}** | **{{ REPOSITORIES }}** | **{{ REPOSITORIES_CONTRIBUTED_TO }}** |
 
 
 ### About Me
