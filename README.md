@@ -7,9 +7,9 @@
 
 ### Software Activity
 
-| Commits | Pull Requests | Stars | Personal Repos | Contributed Repos |
-|---------|---------------|--------|----------------|-------------------|
-| **822** | **96** | **12** | **8** | **9** |
+| Commits | Pull Requests | Reviews | Stars | Personal Repos | Contributed Repos |
+|---------|---------------|---------|--------|----------------|-------------------|
+| **827** | **96** | **35** | **12** | **8** | **9** |
 
 
 ### About Me
